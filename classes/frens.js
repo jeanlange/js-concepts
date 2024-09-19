@@ -6,7 +6,7 @@ export class Fren {
         this.speed = 0;
     }
 
-    sayHi = () => {
+    sayHi() {
         console.log("hello! my name is", this.name);
     }
 
@@ -18,3 +18,4 @@ export class Fren {
         console.log(this.name, "is going so fast! How fast?", this.speed, " fast!");
     }
 }
+

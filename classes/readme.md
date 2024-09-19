@@ -21,3 +21,12 @@ classes in JS:
 
 - LegoSet
 - LOTRLegoSet < LegoSet
+
+
+
+Fren is a class (superclass / parent class)
+Bee is a class
+A Bee is a Fren also because Bee extends Fren
+matilda is an instance of a Bee, which means matilda is a Fren, too
+
+Pokemon > Bulbasaur > my_first_bulbasaur
